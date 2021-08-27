@@ -189,7 +189,7 @@ nav a{
     transition: 0.2s;
 
 }
-.img-contato:hover,.img-gmail:hover, .rede-social img:hover{
+.rede-social img:hover{
     opacity: 1;
     transform: scale(1.2);
 }
